@@ -12,4 +12,4 @@
 
 In the project (`meu-projeto-node`) directory, you can run `yarn local` to run the server locally (after configuring the database on your machine), and the database will be ready to be used!
 
-In the program directory (`program`), you can run `node mp2.js` to access an interactive program. Within this program, you can utilize CRUD system methods to manage information and data within the Biblioteca Virtual.
+In the program directory (`program/src`), you can run `node mp2.js` to access an interactive program. Within this program, you can utilize CRUD system methods to manage information and data within the Biblioteca Virtual.
