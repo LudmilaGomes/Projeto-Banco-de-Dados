@@ -2,8 +2,9 @@
 
 ## About the Project
 
-<p>The idea for this project was developed to practice the use of Node.js and for projects in the Banco de Dados discipline.</p>
-<p>Biblioteca Virtual is a system that manipulates and manages the data of a fictional library, storing information about books, users, librarians, fines, and loans.</p>
+The idea for this project was developed to practice the use of Node.js. Biblioteca Virtual was also used for the Banco de Dados subject projects.
+
+Biblioteca Virtual is a system that manipulates and manages the data of a fictional library, storing information about books, users, librarians, fines, and loans.
 
 ## Available Scripts
 
